@@ -1,9 +1,7 @@
 # Collapsible Table
 The Collapsible Table component is a custom-built, multi-layered collapsible table designed specifically for social media discourse analysis. This component extends the functionality of existing Dash libraries to better reflect nuanced, multi-level conversations often found in social media discourse.
 
-You can install the component directly via PyPI: pip install collapsible-table
-
-For a preview of the original design, please refer to the <a href="https://www.figma.com/proto/5ZTAMAXEJHfkTzoqEk5EdE/Dashboard?page-id=0%3A1&node-id=584-31&starting-point-node-id=584%3A31&t=0gFiDNb148Q9wFAI-1" target="_blank"> Figma Prototype </a>, under Discourse Analysis > Discourses.
+You can also install the component directly via PyPI: pip install collapsible-table
 
 Collapsible Table is a Dash component library.
 
