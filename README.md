@@ -1,4 +1,7 @@
 # Collapsible Table
+This component was created to be integrated into my dashboard for my PhD research for multi-layered collapsible tables to reflect social media discourses.
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/5ZTAMAXEJHfkTzoqEk5EdE/Dashboard?page-id=0%3A1&node-id=584-31&starting-point-node-id=584%3A31&embed-host=share" allowfullscreen></iframe>
 
 Collapsible Table is a Dash component library.
 
